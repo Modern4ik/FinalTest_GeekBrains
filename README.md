@@ -43,7 +43,7 @@ ____
 ## **Общее описание алгоритма программы.**
 ______
 ### **Общая блок-схема алгоритма решения задачи.**
-![Общая блок-схема](https://github.com/Modern4ik/FinalTest_GeekBrains/blob/main/GeneralBlockDiagram.jpg?raw=true)
+![Общая блок-схема](diagrams/GeneralBlockDiagram.jpg)
 
 ### **Текстовое описание общей работы алгоритма программы.**
 
@@ -90,7 +90,7 @@ ___________
 ____
 ### **Блок-Схема аргоритма метода GetValueFromUser.**
 
-![Блок-Схема метода GetValueFromUser](https://github.com/Modern4ik/FinalTest_GeekBrains/blob/main/GetValueFromUserBlockDiagram.jpg?raw=true)
+![Блок-Схема метода GetValueFromUser](diagrams/GetValueFromUserBlockDiagram.jpg)
 
 ### **Описание метода GetValueFromUser в коде программы.**
 
@@ -117,7 +117,7 @@ int GetValueFromUser(string message, string errorMessage)
 
 ### **Блок-Схема алгоритма метода GetAndFillArrayByUser.**
 
-![Блок-Схема метода GetAndFillArrayByUser](https://github.com/Modern4ik/FinalTest_GeekBrains/blob/main/GetAndFillArrayByUserBlockDiagram.jpg?raw=true)
+![Блок-Схема метода GetAndFillArrayByUser](diagrams/GetAndFillArrayByUserBlockDiagram.jpg)
 
 ### **Описание метода GetAndFillArrayByUser в коде программы.**
 
@@ -168,7 +168,7 @@ void PrintArray(string[] arr)
 
 ### **Блок-Схема алгоритма метода GetSortedArray.**
 
-![Блок-Схема Алгоритма GetSortedArray](https://github.com/Modern4ik/FinalTest_GeekBrains/blob/main/GetSortedArrayBlockDiagram.jpg?raw=true)
+![Блок-Схема Алгоритма GetSortedArray](diagrams/GetSortedArrayBlockDiagram.jpg)
 
 ### **Описание метода GetSortedArray в коде программы.**
 
